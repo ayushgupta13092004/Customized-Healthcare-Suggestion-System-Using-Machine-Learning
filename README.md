@@ -1,5 +1,6 @@
 # Customized-Healthcare-Suggestion-System-Using-Machine-Learning
 ## Personalized Medical Recommendation System
+![App Screenshot](image/Demo_Screen.png)
 Welcome to our Flask API-based Machine Learning model, designed as a comprehensive Recommendation and Prediction System. Today, I'm excited to present this one-screen dashboard that exemplifies our solution.  
 
 Our system employs a Linear Regression model at its core, focusing on creating an intelligent, user-friendly interface for medical diagnosis and recommendations. Users can input their symptoms into the dashboard, and the system will provide accurate predictions along with relevant recommendations.
