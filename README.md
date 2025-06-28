@@ -115,7 +115,6 @@ This project utilizes diagnoses data to:
 1. Documented optimization and evaluation process 
 2. Model performance display
 ![image](https://github.com/user-attachments/assets/8d1dcaee-7c0d-4a24-857e-e70df4613298)
-![image](https://github.com/user-attachments/assets/d5e54f23-eced-4a72-b95a-be6868726451)
 
 
 
